@@ -1,6 +1,6 @@
 {
     "name": "run-length",
-    "version": "0.9.0",
+    "version": "1.0.0",
     "description": "run length encoder and decoder",
     "main": "./build/index.js",
     "types": "./build/index.d.ts",
@@ -15,6 +15,10 @@
         "encoder",
         "decoder"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dugagjin/run-length.git"
+    },
     "author": "Dugagjin Lashi",
     "license": "MIT"
 }
