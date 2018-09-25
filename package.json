@@ -1,6 +1,6 @@
 {
     "name": "run-length",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "run length encoder and decoder",
     "main": "./build/index.js",
     "types": "./build/index.d.ts",
